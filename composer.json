@@ -1,0 +1,36 @@
+{
+    "name": "krozamdev/laravel-api-response",
+    "description": "Laravel Api Response Generator",
+    "keywords": [
+        "krozamdev",
+        "laravel",
+        "laravel api",
+        "laravel api response",
+        "laravel api response generator",
+        "api response generator",
+        "api response json",
+        "api response json generator"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KrozamDev\\LaravelApiResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "krozamdev",
+            "email": "ikromzamzami@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^7"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
